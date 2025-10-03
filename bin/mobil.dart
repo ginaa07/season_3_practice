@@ -10,6 +10,6 @@ class Mobil {
 }
 
 void main() {
-  var innova = Mobil('Toyota', 2025);
-  innova.info(); // Mobil: Toyota, Tahun: 2025
+  var palisade = Mobil('Hyundai', 2025);
+  palisade.info(); // Mobil: Hyundai, Tahun: 2025
 }
