@@ -11,6 +11,6 @@ print('Halo, saya $nama, umur $umur tahun, alamat saya $alamat, nim saya $nim' )
 }
 }
 void main() {
-var mhs = Mahasiswa('Regina Safarina', 22, 'Tangerang, Pasarkemis', 1123150124);
+var mhs = Mahasiswa('Regina Safarina', 22, 'Tangerang, pasarkemis', 1123150124);
 mhs.perkenalan(); // Halo, saya Regina Safarina, umur 22 tahun, ber alamat tangerang. pasarkemis
 }
