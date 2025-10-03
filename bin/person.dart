@@ -6,5 +6,5 @@ Person(this.name, this.age);
 }
 void main() {
 var p = Person("Regina Safarina", 22);
-print("${p.name}, ${p.age}"); // Output: Budi, 25
+print("${p.name}, ${p.age}"); // Output: Safa, 22
 }
